@@ -7,6 +7,7 @@ de internet hDC Host.
 📌 Tecnologias utilizadas:
 -HTML5
 -CSS3
+-Responsividade
 📂 Treinando-HTML-e-CSS
  ├── index.html
  ├── style.css
